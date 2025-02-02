@@ -251,12 +251,12 @@ Click Add New Agent again. And repeat the same steps for Jane but for John and e
 </p>
 <br />
 
-Next click the Access tab, then put John in the Support department, with the Role of View only. We can leave everything else as is and click Create.
+Next click the Access tab, then put John in the Support department, with the Role of All Access. We can leave everything else as is and click Create.
 
 </p>
 <br />
 
-![image](https://github.com/user-attachments/assets/0ddf3c68-0416-459f-b681-021fc309b4b7)
+![image](https://github.com/user-attachments/assets/c22bc111-8a37-45f9-bb6a-151e9d9db7d6)
 
 </p>
 <br />
