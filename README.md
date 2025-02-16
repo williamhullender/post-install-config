@@ -29,6 +29,11 @@ This tutorial outlines the post-install configuration of the open-source help de
     - Help Topics
  - Allow anyone to create tickets
 
+<h2>Related Projects</h2>
+
+- [osTicket: Prerequisites and Installation](https://github.com/williamhullender/osticket-prereqs)
+- [osTicket: Ticket Lifecycle Examples](https://github.com/williamhullender/ticket-lifecycle)
+
 <h2>Configuration Steps</h2>
 
 </p>
